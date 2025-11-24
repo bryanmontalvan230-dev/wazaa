@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head></head><!-- studente: bryan montalvan, classe:5N, esercitazione sitemi e reti 24/11/25-->
+<style>
+    table, th, td {
+      border:1px solid black;
+       tr:nth-child(even) {
+        background-color: #D6EEEE;
+    }
+    body {
+  background-image: url('https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.pngtree.com%2Ffree-backgrounds-photos%2Fimagen-suave&psig=AOvVaw1kpgdsD5xiY6TfEuGcWXv7&ust=1764096812386000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLixkPK6i5EDFQAAAAAdAAAAABAE');
+}
+    </style>
+<body>
+    <center><h1>L'imperialismo</h1></center>
+    <p text-align: vertical>L'imperialismo è la volontà di uno Stato di estendere il proprio dominio (politico, economico e culturale) su altri territori al fine di realizzare un impero.
+        Il termine venne coniato in Francia nell'Ottocento per definire il regime instaurato da Napoleone III, fu usato in seguito in Inghilterra, associato all'idea di dispotismo e infine il suo significato venne esteso alla tendenza di una nazione a imporre il suo dominio economico e a influenzare la politica interna di altri paesi con l'obiettivo di avviare la costruzione di imponenti imperi economici (ad es. sfruttare la manodopera a basso costo e le materie prime). Per i paesi dominanti uno degli obiettivi principali di questo sistema era quello di ricavare dai paesi occupati una grande quantità di materie prime a costi bassi. Il termine è usato talvolta per descrivere la politica estera di uno Stato tesa al mantenimento di colonie e domini in terre lontane, anche se lo Stato stesso non si considera un impero.
+         Inoltre, il termine imperialismo può indicare una posizione intellettuale e allo stesso tempo un'ideologia politico-economica e culturale, che implicherebbe la convinzione che la conquista e il mantenimento degli imperi abbiano una valenza positiva; tale punto di vista è spesso unito al presupposto di una superiorità culturale o di altro tipo (es. razziale) intrinseca al potere imperiale.</p>
+        <center><img  src="c:\Users\Studente.LAPTOP-T2DBKLG3.000\Downloads\imper.jpg" alt="imperi"></center> 
+         <table style="width:100%">
+            <tr style="background-color:#FFF8DC">
+              <th  </th>
+              <th>Territori occupati (esempi)</th>
+              <th>Conseguenze principali</th>
+            </tr>
+            <tr>
+              <td>Gran Bretagna	</td>
+              <td>India, Sudafrica, Egitto, Kenya, Australia, Nuova Zelanda	</td>
+              <td>Sfruttamento economico, egemonia culturale, nascita di conflitti
+            </td>
+            </tr style="background-color:#FFFFF0">
+            <tr>
+              <td>Francia	</td>
+              <td>Algeria, Senegal, Camerun, Vietnam, Laos	</td>
+              <td>Espansione territoriale, controllo politico e culturale, sviluppo economico
+            </td>
+            </tr>
+        <tr>
+                <td>Germania	</td>
+                <td>Tanzania, Namibia, Camerun, Cina	</td>
+                <td>Rivalità con altre potenze, sfruttamento delle risorse
+              </td>
+              </tr>
+         <tr style="background-color:#fffaf0">
+                <td>Belgio	</td>
+                <td>Congo</td>
+                <td>Sfruttamento brutale delle risorse naturali, impatto sociale e umano devastante  </td>
+              </tr>
+
+          </table>            
+            <center><img  src="https://humanidades.com/wp-content/uploads/2019/02/imperialismo-materias-primas-e1551196411747.jpg" alt="imperi"></center> 
+
+</body>
+</html>

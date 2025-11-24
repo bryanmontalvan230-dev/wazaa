@@ -1,2 +1,0 @@
-# wazaa
-wazaa repository
